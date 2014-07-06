@@ -1,7 +1,5 @@
-App of the local festivals of Mungia
+Gora Iruñea!
 =====================
-
-![ScreenShot](/appslide.png)
 
 ## Installation
 
